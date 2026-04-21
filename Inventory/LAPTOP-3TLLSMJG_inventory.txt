@@ -1,0 +1,168 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-06 14:33:13
+Computer Name  : LAPTOP-3TLLSMJG
+Logged-in User : IRFANPC
+Serial Number  : PF4ZSP7Z
+Manufacturer   : LENOVO
+Model          : 82YT
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 7520U with Radeon Graphics         
+Total RAM      : 14845210624 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  509722226688,
+    "FreeSpace":  421511000064
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
+    "MACAddress":  "E8:65:38:80:34:4F"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAPTOP-3TLLSMJG
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : EA-65-38-80-14-6F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : EA-65-38-80-04-7F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+   Physical Address. . . . . . . . . : E8-65-38-80-34-4F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::ef0d:be1f:938a:8f5%16(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.80(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, 6 April 2026 8:46:52 am
+   Lease Expires . . . . . . . . . . : Tuesday, 7 April 2026 2:32:49 pm
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 283665720
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-98-04-A2-FC-5C-EE-E0-AE-63
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : E8-65-38-80-34-50
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : FC-5C-EE-E0-AE-63
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     LAPTOP-3TLLSMJG
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              IRFANPC
+Registered Organization:       N/A
+Product ID:                    00342-22309-64824-AAOEM
+Original Install Date:         18/3/2026, 1:34:27 am
+System Boot Time:              2/4/2026, 11:54:40 am
+System Manufacturer:           LENOVO
+System Model:                  82YT
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 160 Stepping 0 AuthenticAMD ~2801 Mhz
+BIOS Version:                  LENOVO L1CN73WW, 9/1/2026
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         14,157 MB
+Available Physical Memory:     2,656 MB
+Virtual Memory: Max Size:      18,509 MB
+Virtual Memory: Available:     1,793 MB
+Virtual Memory: In Use:        16,716 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\LAPTOP-3TLLSMJG
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5066128
+                               [02]: KB5054156
+                               [03]: KB5086672
+                               [04]: KB5079387
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.80
+                                     [02]: fe80::ef0d:be1f:938a:8f5
+                               [02]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [03]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Audit
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

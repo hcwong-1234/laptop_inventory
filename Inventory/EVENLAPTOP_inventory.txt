@@ -1,0 +1,157 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-02 16:59:04
+Computer Name  : EVENLAPTOP
+Logged-in User : Vivian
+Serial Number  : NXHSESG008048120C43400
+Manufacturer   : Acer
+Model          : Swift SF314-42
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 4500U with Radeon Graphics         
+Total RAM      : 16505954304 bytes
+Domain/Workgrp : DSING
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  510913409024,
+    "FreeSpace":  378284093440
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Intel(R) Wi-Fi 6 AX200 160MHz",
+    "MACAddress":  "44:AF:28:63:FE:DE"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : evenlaptop
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 44-AF-28-63-FE-DF
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : 46-AF-28-63-FE-DE
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN
+   Physical Address. . . . . . . . . : 5E-E8-D1-51-CA-2A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX200 160MHz
+   Physical Address. . . . . . . . . : 44-AF-28-63-FE-DE
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::92d:d7a6:df62:8723%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.92(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, 2 April 2026 4:55:30 pm
+   Lease Expires . . . . . . . . . . : Friday, 3 April 2026 4:55:27 pm
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 71610152
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-DF-B2-2D-44-AF-28-63-FE-DE
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 44-AF-28-63-FE-E2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     EVENLAPTOP
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Vivian
+Registered Organization:       N/A
+Product ID:                    00325-81975-06275-AAOEM
+Original Install Date:         27/1/2025, 7:53:36 am
+System Boot Time:              18/3/2026, 2:54:11 pm
+System Manufacturer:           Acer
+System Model:                  Swift SF314-42
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 96 Stepping 1 AuthenticAMD ~2375 Mhz
+BIOS Version:                  Insyde Corp. V1.09, 18/11/2020
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         15,741 MB
+Available Physical Memory:     7,697 MB
+Virtual Memory: Max Size:      16,765 MB
+Virtual Memory: Available:     6,078 MB
+Virtual Memory: In Use:        10,687 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DSING
+Logon Server:                  \\EVENLAPTOP
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5066128
+                               [02]: KB5054156
+                               [03]: KB5079473
+                               [04]: KB5083532
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: VPN Client Adapter - VPN
+                                     Connection Name: VPN - VPN Client
+                                     Status:          Media disconnected
+                               [02]: Intel(R) Wi-Fi 6 AX200 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.92
+                                     [02]: fe80::92d:d7a6:df62:8723
+                               [03]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: Yes
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes
+

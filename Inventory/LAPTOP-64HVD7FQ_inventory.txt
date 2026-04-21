@@ -1,0 +1,207 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2025-12-04 15:02:28
+Computer Name  : LAPTOP-64HVD7FQ
+Logged-in User : Lixing
+Serial Number  : NXJF5SG001514011C69601
+Manufacturer   : Acer
+Model          : Aspire AG14-71M
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26100
+OS Arch        : 64-bit
+CPU Name       : Intel(R) Core(TM) Ultra 5 125H
+Total RAM      : 16730066944 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  510481395712,
+    "FreeSpace":  370392948736
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC",
+    "MACAddress":  "58:02:05:18:71:4A"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAPTOP-64HVD7FQ
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9 for OpenVPN Connect
+   Physical Address. . . . . . . . . : 00-FF-37-BA-E2-AC
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 1C-69-7A-DE-75-ED
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-15-5D-0F-D0-43
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::6979:3b2b:631e:428%49(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.28.144.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 822089053
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-02-E4-43-1C-69-7A-DE-75-ED
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Unknown adapter OpenVPN Connect DCO Adapter:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : OpenVPN Data Channel Offload
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 5A-02-05-18-71-4A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 5E-02-05-18-71-4A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+   Physical Address. . . . . . . . . : 58-02-05-18-71-4A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::4860:73ab:1c5b:8f3%20(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.189(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, December 4, 2025 2:59:35 PM
+   Lease Expires . . . . . . . . . . : Friday, December 5, 2025 2:59:34 PM
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 307757573
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-02-E4-43-1C-69-7A-DE-75-ED
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 58-02-05-18-71-4B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     LAPTOP-64HVD7FQ
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Lixing
+Registered Organization:       N/A
+Product ID:                    00342-22477-17968-AAOEM
+Original Install Date:         4/11/2025, 9:49:24 PM
+System Boot Time:              11/13/2025, 5:19:22 AM
+System Manufacturer:           Acer
+System Model:                  Aspire AG14-71M
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 170 Stepping 4 GenuineIntel ~1200 Mhz
+BIOS Version:                  American Megatrends International, LLC. V1.04, 3/28/2025
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         15,955 MB
+Available Physical Memory:     5,736 MB
+Virtual Memory: Max Size:      25,457 MB
+Virtual Memory: Available:     11,068 MB
+Virtual Memory: In Use:        14,389 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\LAPTOP-64HVD7FQ
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5066131
+                               [02]: KB5068861
+                               [03]: KB5067035
+Network Card(s):               5 NIC(s) Installed.
+                               [01]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+                               [03]: Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.189
+                                     [02]: fe80::4860:73ab:1c5b:8f3
+                               [04]: TAP-Windows Adapter V9 for OpenVPN Connect
+                                     Connection Name: Local Area Connection
+                                     Status:          Media disconnected
+                               [05]: OpenVPN Data Channel Offload
+                                     Connection Name: OpenVPN Connect DCO Adapter
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

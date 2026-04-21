@@ -1,0 +1,145 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-06 15:45:05
+Computer Name  : CELINEPC
+Logged-in User : Daikai
+Serial Number  : PF3JL28N
+Manufacturer   : LENOVO
+Model          : 82KT
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 5500U with Radeon Graphics         
+Total RAM      : 6280437760 bytes
+Domain/Workgrp : DSING
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  511199670272,
+    "FreeSpace":  194529648640
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Qualcomm Atheros QCA61x4A Wireless Network Adapter",
+    "MACAddress":  "E0:0A:F6:37:12:CF"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : celinepc
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : E2-0A-F6-37-12-CF
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : F2-0A-F6-37-12-CF
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN
+   Physical Address. . . . . . . . . : 5E-48-79-8F-41-3F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Qualcomm Atheros QCA61x4A Wireless Network Adapter
+   Physical Address. . . . . . . . . : E0-0A-F6-37-12-CF
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::ce:9c89:2a58:5222%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.216(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, April 6, 2026 9:10:10 AM
+   Lease Expires . . . . . . . . . . : Tuesday, April 7, 2026 9:10:10 AM
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 249563894
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-C8-28-B2-E0-0A-F6-37-12-CF
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     CELINEPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Daikai
+Registered Organization:       
+Product ID:                    00342-20806-30386-AAOEM
+Original Install Date:         11/12/2025, 5:08:44 AM
+System Boot Time:              3/16/2026, 8:46:59 AM
+System Manufacturer:           LENOVO
+System Model:                  82KT
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 104 Stepping 1 AuthenticAMD ~2100 Mhz
+BIOS Version:                  LENOVO GLCN52WW, 12/9/2022
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         5,989 MB
+Available Physical Memory:     657 MB
+Virtual Memory: Max Size:      16,741 MB
+Virtual Memory: Available:     3,535 MB
+Virtual Memory: In Use:        13,206 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DSING
+Logon Server:                  \\CELINEPC
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5066128
+                               [02]: KB5054156
+                               [03]: KB5079473
+                               [04]: KB5083532
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: Qualcomm Atheros QCA61x4A Wireless Network Adapter
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.216
+                                     [02]: fe80::ce:9c89:2a58:5222
+                               [02]: VPN Client Adapter - VPN
+                                     Connection Name: VPN - VPN Client
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: Yes
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes
+

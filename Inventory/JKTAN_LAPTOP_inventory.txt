@@ -1,0 +1,178 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2025-12-17 09:45:39
+Computer Name  : JKTAN_LAPTOP
+Logged-in User : daikai
+Serial Number  : PF11BHS3
+Manufacturer   : LENOVO
+Model          : 20KSCTO1WW
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Total RAM      : 8486789120 bytes
+Domain/Workgrp : DSING
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  254721126400,
+    "FreeSpace":  74060558336
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Intel(R) Dual Band Wireless-AC 8265",
+    "MACAddress":  "B0:A4:60:AB:C0:70"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : JKTAN_laptop
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 8C-16-45-68-83-93
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : B0-A4-60-AB-C0-71
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : B2-A4-60-AB-C0-70
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN #2
+   Physical Address. . . . . . . . . : 5E-C9-34-84-CA-48
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter WiFi 4:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 8265
+   Physical Address. . . . . . . . . : B0-A4-60-AB-C0-70
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::33a9:6dc5:5598:e9c%14(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.226(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, 17 December 2025 6:56:51 AM
+   Lease Expires . . . . . . . . . . : Thursday, 18 December 2025 6:56:51 AM
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 615556192
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-22-77-8A-36-8C-16-45-68-83-93
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network) #2
+   Physical Address. . . . . . . . . : B0-A4-60-AB-C0-74
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     JKTAN_LAPTOP
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Windows User
+Registered Organization:       
+Product ID:                    00325-96329-72490-AAOEM
+Original Install Date:         8/11/2024, 4:29:31 PM
+System Boot Time:              17/12/2025, 6:56:24 AM
+System Manufacturer:           LENOVO
+System Model:                  20KSCTO1WW
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1800 Mhz
+BIOS Version:                  LENOVO R0PET72W (1.49 ), 30/1/2023
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-gb;English (United Kingdom)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         8,094 MB
+Available Physical Memory:     1,341 MB
+Virtual Memory: Max Size:      8,606 MB
+Virtual Memory: Available:     545 MB
+Virtual Memory: In Use:        8,061 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DSING
+Logon Server:                  \\JKTAN_LAPTOP
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5067931
+                               [02]: KB5054156
+                               [03]: KB5072033
+                               [04]: KB5071142
+Network Card(s):               4 NIC(s) Installed.
+                               [01]: VPN Client Adapter - VPN
+                                     Connection Name: Local Area Connection
+                                     Status:          Media disconnected
+                               [02]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [03]: Intel(R) Dual Band Wireless-AC 8265
+                                     Connection Name: WiFi 4
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.226
+                                     [02]: fe80::33a9:6dc5:5598:e9c
+                               [04]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection 2
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

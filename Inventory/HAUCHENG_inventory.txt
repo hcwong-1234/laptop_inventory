@@ -1,0 +1,182 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2025-12-08 16:48:53
+Computer Name  : HAUCHENG
+Logged-in User : HauCheng_PC
+Serial Number  : NXJF5SG001514011949601
+Manufacturer   : Acer
+Model          : Aspire AG14-71M
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26100
+OS Arch        : 64-bit
+CPU Name       : Intel(R) Core(TM) Ultra 5 125H
+Total RAM      : 16730066944 bytes
+Domain/Workgrp : DSING
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  510481395712,
+    "FreeSpace":  238621839360
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC",
+    "MACAddress":  "58:02:05:18:5C:0A"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : HauCheng
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 1C-69-7A-DE-72-DC
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 5A-02-05-18-5C-0A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 5E-02-05-18-5C-0A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+   Physical Address. . . . . . . . . : 58-02-05-18-5C-0A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::9421:8896:3163:e8d2%5(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.10.250(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, 8 December 2025 4:27:32 pm
+   Lease Expires . . . . . . . . . . : Tuesday, 9 December 2025 4:27:29 pm
+   Default Gateway . . . . . . . . . : 192.168.10.1
+   DHCP Server . . . . . . . . . . . : 192.168.10.1
+   DHCPv6 IAID . . . . . . . . . . . : 324534789
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-35-F3-29-1C-69-7A-DE-72-DC
+   DNS Servers . . . . . . . . . . . : 192.168.10.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 58-02-05-18-5C-0B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-15-5D-53-FD-CE
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::bad:1d71:4a99:405a%45(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.23.224.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 754980189
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-35-F3-29-1C-69-7A-DE-72-DC
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     HAUCHENG
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              HauCheng_PC
+Registered Organization:       N/A
+Product ID:                    00342-22477-17997-AAOEM
+Original Install Date:         19/8/2025, 4:43:46 pm
+System Boot Time:              2/12/2025, 9:21:05 am
+System Manufacturer:           Acer
+System Model:                  Aspire AG14-71M
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 170 Stepping 4 GenuineIntel ~1200 Mhz
+BIOS Version:                  American Megatrends International, LLC. V1.04, 28/3/2025
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         15,955 MB
+Available Physical Memory:     5,284 MB
+Virtual Memory: Max Size:      16,979 MB
+Virtual Memory: Available:     3,022 MB
+Virtual Memory: In Use:        13,957 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DSING
+Logon Server:                  \\HAUCHENG
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5066131
+                               [02]: KB5068861
+                               [03]: KB5067035
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.10.1
+                                     IP address(es)
+                                     [01]: 192.168.10.250
+                                     [02]: fe80::9421:8896:3163:e8d2
+                               [02]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [03]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

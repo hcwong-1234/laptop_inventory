@@ -1,0 +1,176 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-07 14:47:49
+Computer Name  : MINYILOKEPC
+Logged-in User : MIN KI LOKE
+Serial Number  : PF4DQENW
+Manufacturer   : LENOVO
+Model          : 83ER
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : 12th Gen Intel(R) Core(TM) i5-12450H
+Total RAM      : 16857817088 bytes
+Domain/Workgrp : DSING
+
+[DISKS JSON]
+[
+    {
+        "DeviceID":  "C:",
+        "Size":  509722226688,
+        "FreeSpace":  382754111488
+    },
+    {
+        "DeviceID":  "G:",
+        "Size":  509722226688,
+        "FreeSpace":  363616403456
+    }
+]
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Intel(R) Wi-Fi 6 AX203",
+    "MACAddress":  "F4:C8:8A:1C:E2:47"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : minyilokepc
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : F4-C8-8A-1C-E2-48
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : F6-C8-8A-1C-E2-47
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN
+   Physical Address. . . . . . . . . : 5E-96-7A-51-C4-04
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi 2:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX203
+   Physical Address. . . . . . . . . : F4-C8-8A-1C-E2-47
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d59c:9c84:8db9:cdb%19(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.244(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, 7 April 2026 8:58:52 am
+   Lease Expires . . . . . . . . . . : Wednesday, 8 April 2026 12:37:09 pm
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 301254794
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-9C-99-B6-F4-C8-8A-1C-E2-47
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : F4-C8-8A-1C-E2-4B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     MINYILOKEPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              MIN KI LOKE
+Registered Organization:       N/A
+Product ID:                    00342-22180-94428-AAOEM
+Original Install Date:         21 Oct 2024, 8:49:40 am
+System Boot Time:              25 Mar 2026, 10:45:25 am
+System Manufacturer:           LENOVO
+System Model:                  83ER
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 154 Stepping 3 GenuineIntel ~2000 Mhz
+BIOS Version:                  LENOVO LTCN43WW, 19 Nov 2025
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         16,077 MB
+Available Physical Memory:     3,749 MB
+Virtual Memory: Max Size:      20,299 MB
+Virtual Memory: Available:     3,975 MB
+Virtual Memory: In Use:        16,324 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DSING
+Logon Server:                  \\MINYILOKEPC
+Hotfix(s):                     5 Hotfix(s) Installed.
+                               [01]: KB5074828
+                               [02]: KB5054156
+                               [03]: KB5086672
+                               [04]: KB5083532
+                               [05]: KB5079387
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: VPN Client Adapter - VPN
+                                     Connection Name: VPN - VPN Client
+                                     Status:          Media disconnected
+                               [02]: Intel(R) Wi-Fi 6 AX203
+                                     Connection Name: Wi-Fi 2
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.244
+                                     [02]: fe80::d59c:9c84:8db9:cdb
+                               [03]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

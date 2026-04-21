@@ -1,0 +1,157 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-02-27 16:36:33
+Computer Name  : JOYCE-LAPTOP
+Logged-in User : Daikai
+Serial Number  : NXHFHSG010007022656600
+Manufacturer   : Acer
+Model          : Swift SF314-41G
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26100
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  
+Total RAM      : 6366441472 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  510913409024,
+    "FreeSpace":  364786581504
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Qualcomm Atheros QCA61x4A Wireless Network Adapter",
+    "MACAddress":  "10:63:C8:83:28:5B"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : joyce-laptop
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 12-63-C8-83-28-5B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : 22-63-C8-83-28-5B
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN
+   Physical Address. . . . . . . . . : 5E-3C-6D-B2-9F-45
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Qualcomm Atheros QCA61x4A Wireless Network Adapter
+   Physical Address. . . . . . . . . : 10-63-C8-83-28-5B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c802:f0fe:53f2:73ea%12(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.101(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 27 February 2026 08:37:51
+   Lease Expires . . . . . . . . . . : 28 February 2026 16:26:14
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 84960200
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-28-09-40-FF-10-63-C8-83-28-5B
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 10-63-C8-83-28-5C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     JOYCE-LAPTOP
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Daikai
+Registered Organization:       N/A
+Product ID:                    00325-81630-85712-AAOEM
+Original Install Date:         08/04/2025, 09:14:25
+System Boot Time:              12/02/2026, 21:02:05
+System Manufacturer:           Acer
+System Model:                  Swift SF314-41G
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 24 Stepping 1 AuthenticAMD ~2100 Mhz
+BIOS Version:                  Insyde Corp. V1.10, 17/03/2021
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         6,072 MB
+Available Physical Memory:     916 MB
+Virtual Memory: Max Size:      12,472 MB
+Virtual Memory: Available:     4,701 MB
+Virtual Memory: In Use:        7,771 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\JOYCE-LAPTOP
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5066131
+                               [02]: KB5074109
+                               [03]: KB5071142
+                               [04]: KB5077869
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: VPN Client Adapter - VPN
+                                     Connection Name: VPN - VPN Client
+                                     Status:          Media disconnected
+                               [02]: Qualcomm Atheros QCA61x4A Wireless Network Adapter
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.101
+                                     [02]: fe80::c802:f0fe:53f2:73ea
+                               [03]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: Yes
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes
+

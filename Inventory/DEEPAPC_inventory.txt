@@ -1,0 +1,167 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-09 07:18:41
+Computer Name  : DEEPAPC
+Logged-in User : Deepa
+Serial Number  : NXJF5SG005543009569601
+Manufacturer   : Acer
+Model          : Aspire AG14-71M
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26100
+OS Arch        : 64-bit
+CPU Name       : Intel(R) Core(TM) Ultra 5 115U
+Total RAM      : 16730439680 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  510481395712,
+    "FreeSpace":  440986255360
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC",
+    "MACAddress":  "50:2E:91:A6:23:88"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DeepaPC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 88-AE-DD-D0-AB-69
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 52-2E-91-A6-23-88
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 56-2E-91-A6-23-88
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+   Physical Address. . . . . . . . . : 50-2E-91-A6-23-88
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f709:83c6:49c9:c1d3%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.244(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, 9 April 2026 7:14:22 am
+   Lease Expires . . . . . . . . . . : Friday, 10 April 2026 7:17:16 am
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 105918097
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-31-68-88-FD-88-AE-DD-D0-AB-69
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 50-2E-91-A6-23-89
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     DEEPAPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Deepa
+Registered Organization:       N/A
+Product ID:                    00342-22626-80595-AAOEM
+Original Install Date:         5/11/2025, 9:46:23 am
+System Boot Time:              9/4/2026, 7:13:23 am
+System Manufacturer:           Acer
+System Model:                  Aspire AG14-71M
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 170 Stepping 4 GenuineIntel ~1500 Mhz
+BIOS Version:                  American Megatrends International, LLC. V1.05, 5/5/2025
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         15,955 MB
+Available Physical Memory:     10,419 MB
+Virtual Memory: Max Size:      18,899 MB
+Virtual Memory: Available:     12,962 MB
+Virtual Memory: In Use:        5,937 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\DEEPAPC
+Hotfix(s):                     2 Hotfix(s) Installed.
+                               [01]: KB5062660
+                               [02]: KB5064485
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+                               [03]: Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.244
+                                     [02]: fe80::f709:83c6:49c9:c1d3
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Audit
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

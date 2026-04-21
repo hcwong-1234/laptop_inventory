@@ -1,0 +1,153 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-06 09:50:49
+Computer Name  : SYAMINPC
+Logged-in User : new
+Serial Number  : NXKSFSG003434083C67600
+Manufacturer   : Acer
+Model          : Aspire A314-42P
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 7 5700U with Radeon Graphics         
+Total RAM      : 16469520384 bytes
+Domain/Workgrp : DSING
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  510745636864,
+    "FreeSpace":  346396237824
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
+    "MACAddress":  "C0:35:32:BB:F2:6B"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : SyaminPC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : C2-35-32-BB-D2-4B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : C2-35-32-BB-C2-5B
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+   Physical Address. . . . . . . . . : C0-35-32-BB-F2-6B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::bf20:297b:53b6:2b64%15(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.60(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, 6 April 2026 9:13:54 am
+   Lease Expires . . . . . . . . . . : Tuesday, 7 April 2026 9:13:53 am
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 264254770
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-16-1C-A9-C0-35-32-BB-F2-6B
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : C0-35-32-BB-F2-6C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     SYAMINPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              new
+Registered Organization:       N/A
+Product ID:                    00342-22382-79966-AAOEM
+Original Install Date:         31/1/2025, 9:40:07 am
+System Boot Time:              2/4/2026, 9:18:26 am
+System Manufacturer:           Acer
+System Model:                  Aspire A314-42P
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 104 Stepping 1 AuthenticAMD ~1801 Mhz
+BIOS Version:                  INSYDE Corp. V1.53, 25/1/2024
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         15,707 MB
+Available Physical Memory:     3,571 MB
+Virtual Memory: Max Size:      54,619 MB
+Virtual Memory: Available:     33,296 MB
+Virtual Memory: In Use:        21,323 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DSING
+Logon Server:                  \\SYAMINPC
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5074828
+                               [02]: KB5054156
+                               [03]: KB5085516
+                               [04]: KB5083532
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.60
+                                     [02]: fe80::bf20:297b:53b6:2b64
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                               Services Running:
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

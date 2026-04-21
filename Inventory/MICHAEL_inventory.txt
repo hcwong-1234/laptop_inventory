@@ -1,0 +1,181 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2025-12-05 14:49:30
+Computer Name  : MICHAEL
+Logged-in User : Michael
+Serial Number  : NXJF5SG0015140112E9601
+Manufacturer   : Acer
+Model          : Aspire AG14-71M
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26100
+OS Arch        : 64-bit
+CPU Name       : Intel(R) Core(TM) Ultra 5 125H
+Total RAM      : 16730066944 bytes
+Domain/Workgrp : DSING
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  510481395712,
+    "FreeSpace":  377609625600
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC",
+    "MACAddress":  "58:02:05:18:80:DA"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Michael
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9 for OpenVPN Connect
+   Physical Address. . . . . . . . . : 00-FF-1A-A3-0B-50
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 1C-69-7A-DE-61-EE
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter OpenVPN Connect DCO Adapter:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : OpenVPN Data Channel Offload
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 5A-02-05-18-80-DA
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 5E-02-05-18-80-DA
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+   Physical Address. . . . . . . . . : 58-02-05-18-80-DA
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::16bd:2536:689c:ada4%21(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.117(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, 5 December 2025 2:42:25 pm
+   Lease Expires . . . . . . . . . . : Saturday, 6 December 2025 2:42:24 pm
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 173539845
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-08-5A-7E-1C-69-7A-DE-61-EE
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     MICHAEL
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Michael
+Registered Organization:       N/A
+Product ID:                    00342-22477-20830-AAOEM
+Original Install Date:         15/4/2025, 3:02:24 am
+System Boot Time:              18/11/2025, 5:10:37 pm
+System Manufacturer:           Acer
+System Model:                  Aspire AG14-71M
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 170 Stepping 4 GenuineIntel ~1200 Mhz
+BIOS Version:                  American Megatrends International, LLC. V1.04, 28/3/2025
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         15,955 MB
+Available Physical Memory:     6,472 MB
+Virtual Memory: Max Size:      20,819 MB
+Virtual Memory: Available:     7,842 MB
+Virtual Memory: In Use:        12,977 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DSING
+Logon Server:                  \\MICHAEL
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5066131
+                               [02]: KB5068861
+                               [03]: KB5067360
+                               [04]: KB5067035
+Network Card(s):               4 NIC(s) Installed.
+                               [01]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [02]: Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.117
+                                     [02]: fe80::16bd:2536:689c:ada4
+                               [03]: TAP-Windows Adapter V9 for OpenVPN Connect
+                                     Connection Name: Local Area Connection
+                                     Status:          Media disconnected
+                               [04]: OpenVPN Data Channel Offload
+                                     Connection Name: OpenVPN Connect DCO Adapter
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

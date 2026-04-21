@@ -1,0 +1,186 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-06 10:47:30
+Computer Name  : TERENCEPC
+Logged-in User : Terence
+Serial Number  : PF1B31R9
+Manufacturer   : LENOVO
+Model          : 82DL
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 4600U with Radeon Graphics         
+Total RAM      : 7909199872 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+[
+    {
+        "DeviceID":  "C:",
+        "Size":  510770802688,
+        "FreeSpace":  377167958016
+    },
+    {
+        "DeviceID":  "G:",
+        "Size":  510770802688,
+        "FreeSpace":  358309556224
+    },
+    {
+        "DeviceID":  "H:",
+        "Size":  16106127360,
+        "FreeSpace":  14430855168
+    },
+    {
+        "DeviceID":  "I:",
+        "Size":  510770802688,
+        "FreeSpace":  358309556224
+    },
+    {
+        "DeviceID":  "J:",
+        "Size":  510770802688,
+        "FreeSpace":  358309556224
+    }
+]
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Intel(R) Wi-Fi 6 AX200 160MHz",
+    "MACAddress":  "AC:12:03:DB:DB:43"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : TerencePC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN
+   Physical Address. . . . . . . . . : 5E-41-CD-4F-F5-63
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : AC-12-03-DB-DB-44
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : AE-12-03-DB-DB-43
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX200 160MHz
+   Physical Address. . . . . . . . . : AC-12-03-DB-DB-43
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::b355:19d8:97e9:b7ca%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.175(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, 6 April 2026 10:45:05 am
+   Lease Expires . . . . . . . . . . : Tuesday, 7 April 2026 10:45:04 am
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 229380611
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-15-DC-FA-AC-12-03-DB-DB-43
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : AC-12-03-DB-DB-47
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     TERENCEPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Terence
+Registered Organization:       N/A
+Product ID:                    00325-96711-88370-AAOEM
+Original Install Date:         14/1/2025, 10:31:44 am
+System Boot Time:              6/4/2026, 10:44:42 am
+System Manufacturer:           LENOVO
+System Model:                  82DL
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 96 Stepping 1 AuthenticAMD ~2100 Mhz
+BIOS Version:                  LENOVO F0CN35WW, 28/4/2022
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         7,543 MB
+Available Physical Memory:     2,709 MB
+Virtual Memory: Max Size:      16,247 MB
+Virtual Memory: Available:     10,910 MB
+Virtual Memory: In Use:        5,337 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\TERENCEPC
+Hotfix(s):                     5 Hotfix(s) Installed.
+                               [01]: KB5066128
+                               [02]: KB5054156
+                               [03]: KB5086672
+                               [04]: KB5083532
+                               [05]: KB5079387
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: VPN Client Adapter - VPN
+                                     Connection Name: VPN - VPN Client
+                                     Status:          Media disconnected
+                               [02]: Intel(R) Wi-Fi 6 AX200 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.175
+                                     [02]: fe80::b355:19d8:97e9:b7ca
+                               [03]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     Mode Based Execution Control
+                               Services Configured:
+                               Services Running:
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

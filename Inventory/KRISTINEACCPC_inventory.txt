@@ -1,0 +1,173 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-06 10:53:44
+Computer Name  : KRISTINEACCPC
+Logged-in User : KRISTINE LIM
+Serial Number  : NXKTXSG00140100B074500
+Manufacturer   : Acer
+Model          : Aspire AL14-51M
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : 12th Gen Intel(R) Core(TM) i5-1235U
+Total RAM      : 16890978304 bytes
+Domain/Workgrp : DSING
+
+[DISKS JSON]
+[
+    {
+        "DeviceID":  "C:",
+        "Size":  510745636864,
+        "FreeSpace":  353376292864
+    },
+    {
+        "DeviceID":  "G:",
+        "Size":  510745636864,
+        "FreeSpace":  335707475968
+    }
+]
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Intel(R) Wi-Fi 6 AX201 160MHz",
+    "MACAddress":  "F0:77:C3:DD:E6:63"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : kristineaccpc
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN
+   Physical Address. . . . . . . . . : 5E-3C-A4-CE-D0-A8
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : F0-77-C3-DD-E6-64
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : F2-77-C3-DD-E6-63
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Physical Address. . . . . . . . . : F0-77-C3-DD-E6-63
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::875e:17d7:a97d:c8df%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.112(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, 6 April 2026 8:55:46 am
+   Lease Expires . . . . . . . . . . : Tuesday, 7 April 2026 10:53:36 am
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 116422595
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-97-2A-7A-F0-77-C3-DD-E6-63
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : F0-77-C3-DD-E6-67
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     KRISTINEACCPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              KRISTINE LIM
+Registered Organization:       N/A
+Product ID:                    00342-22277-14203-AAOEM
+Original Install Date:         26/11/2024, 9:00:25 am
+System Boot Time:              23/3/2026, 1:57:14 pm
+System Manufacturer:           Acer
+System Model:                  Aspire AL14-51M
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 154 Stepping 4 GenuineIntel ~1300 Mhz
+BIOS Version:                  Insyde V1.07, 28/4/2024
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         16,108 MB
+Available Physical Memory:     4,475 MB
+Virtual Memory: Max Size:      20,972 MB
+Virtual Memory: Available:     7,863 MB
+Virtual Memory: In Use:        13,109 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DSING
+Logon Server:                  \\KRISTINEACCPC
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5074828
+                               [02]: KB5054156
+                               [03]: KB5085516
+                               [04]: KB5083532
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: VPN Client Adapter - VPN
+                                     Connection Name: VPN - VPN Client
+                                     Status:          Media disconnected
+                               [02]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.112
+                                     [02]: fe80::875e:17d7:a97d:c8df
+                               [03]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                               Services Running:
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

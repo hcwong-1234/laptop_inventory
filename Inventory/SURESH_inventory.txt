@@ -1,0 +1,154 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-02-25 10:22:27
+Computer Name  : SURESH
+Logged-in User : Suresh
+Serial Number  : PW0LL20Q
+Manufacturer   : LENOVO
+Model          : 83J2
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 7535HS with Radeon Graphics        
+Total RAM      : 14286462976 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+[
+    {
+        "DeviceID":  "C:",
+        "Size":  241285722112,
+        "FreeSpace":  135908077568
+    },
+    {
+        "DeviceID":  "E:",
+        "Size":  268435451904,
+        "FreeSpace":  68522446848
+    }
+]
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "RZ616 Wi-Fi 6E 160MHz",
+    "MACAddress":  "F4:28:9D:42:97:F7"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Suresh
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : F6-28-9D-42-B7-D7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : RZ616 Wi-Fi 6E 160MHz
+   Physical Address. . . . . . . . . : F4-28-9D-42-97-F7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::caec:cc3c:3525:cc02%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.93(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, February 25, 2026 10:20:52 AM
+   Lease Expires . . . . . . . . . . : Thursday, February 26, 2026 10:20:52 AM
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 234104989
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-78-FD-99-3C-18-A0-1C-1D-83
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : F4-28-9D-42-97-F8
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     SURESH
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Suresh
+Registered Organization:       N/A
+Product ID:                    00342-22617-33339-AAOEM
+Original Install Date:         1/22/2026, 7:00:41 AM
+System Boot Time:              2/25/2026, 10:20:37 AM
+System Manufacturer:           LENOVO
+System Model:                  83J2
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 68 Stepping 1 AuthenticAMD ~2496 Mhz
+BIOS Version:                  LENOVO PYCN31WW, 12/10/2025
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         13,625 MB
+Available Physical Memory:     7,297 MB
+Virtual Memory: Max Size:      23,353 MB
+Virtual Memory: Available:     14,745 MB
+Virtual Memory: In Use:        8,608 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\SURESH
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5066128
+                               [02]: KB5054156
+                               [03]: KB5077181
+                               [04]: KB5077869
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: RZ616 Wi-Fi 6E 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.93
+                                     [02]: fe80::caec:cc3c:3525:cc02
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Enforced
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

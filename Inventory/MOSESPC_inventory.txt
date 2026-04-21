@@ -1,0 +1,146 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-06 11:24:54
+Computer Name  : MOSESPC
+Logged-in User : MOSES
+Serial Number  : MP2BS6S8
+Manufacturer   : LENOVO
+Model          : 82LM
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 5500U with Radeon Graphics         
+Total RAM      : 16468996096 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  509722226688,
+    "FreeSpace":  364574216192
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC",
+    "MACAddress":  "20:2B:20:65:99:BF"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MOSESPC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 22-2B-20-65-99-BF
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : A2-2B-20-65-99-BF
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC
+   Physical Address. . . . . . . . . : 20-2B-20-65-99-BF
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::6159:88b9:55ec:ca41%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.220(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, 6 April 2026 9:00:21 am
+   Lease Expires . . . . . . . . . . : Tuesday, 7 April 2026 11:21:43 am
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 85994272
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-15-BD-85-20-2B-20-65-99-BF
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     MOSESPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              MOSES
+Registered Organization:       N/A
+Product ID:                    00342-22038-34326-AAOEM
+Original Install Date:         5/12/2024, 3:46:42 pm
+System Boot Time:              6/4/2026, 9:00:01 am
+System Manufacturer:           LENOVO
+System Model:                  82LM
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 104 Stepping 1 AuthenticAMD ~2100 Mhz
+BIOS Version:                  LENOVO G5CN70WW(V2.16), 26/3/2024
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         15,706 MB
+Available Physical Memory:     6,740 MB
+Virtual Memory: Max Size:      16,730 MB
+Virtual Memory: Available:     5,910 MB
+Virtual Memory: In Use:        10,820 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\MOSESPC
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5074828
+                               [02]: KB5054156
+                               [03]: KB5086672
+                               [04]: KB5079387
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64
+                                     Connection Name: Ethernet 2
+                                     Status:          Hardware not present
+                               [02]: Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.220
+                                     [02]: fe80::6159:88b9:55ec:ca41
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

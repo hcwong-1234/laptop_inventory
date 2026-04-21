@@ -1,0 +1,145 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-04-06 15:02:23
+Computer Name  : SIEWWANPC
+Logged-in User : Daikai
+Serial Number  : PF3EJ1ER
+Manufacturer   : LENOVO
+Model          : 82KT
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 5500U with Radeon Graphics         
+Total RAM      : 6280437760 bytes
+Domain/Workgrp : DISNG
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  509722226688,
+    "FreeSpace":  405614596096
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC",
+    "MACAddress":  "00:45:E2:AF:50:BD"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : siewwanpc
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN
+   Physical Address. . . . . . . . . : 5E-0A-8E-E2-52-1E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 02-45-E2-AF-50-BD
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : 06-45-E2-AF-50-BD
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC
+   Physical Address. . . . . . . . . : 00-45-E2-AF-50-BD
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::b799:611d:b549:4b49%17(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.105(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, April 6, 2026 8:47:52 AM
+   Lease Expires . . . . . . . . . . : Tuesday, April 7, 2026 12:59:31 PM
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 251676130
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-31-E2-F5-00-45-E2-AF-50-BD
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     SIEWWANPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Daikai
+Registered Organization:       N/A
+Product ID:                    00342-20816-22494-AAOEM
+Original Install Date:         02-Sep-25, 8:52:11 AM
+System Boot Time:              01-Apr-26, 5:26:44 PM
+System Manufacturer:           LENOVO
+System Model:                  82KT
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 104 Stepping 1 AuthenticAMD ~2100 Mhz
+BIOS Version:                  LENOVO GLCN68WW, 19-Mar-25
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         5,989 MB
+Available Physical Memory:     872 MB
+Virtual Memory: Max Size:      16,741 MB
+Virtual Memory: Available:     3,469 MB
+Virtual Memory: In Use:        13,272 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DISNG
+Logon Server:                  \\SIEWWANPC
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5074828
+                               [02]: KB5054156
+                               [03]: KB5086672
+                               [04]: KB5079387
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: VPN Client Adapter - VPN
+                                     Connection Name: VPN - VPN Client
+                                     Status:          Media disconnected
+                               [02]: Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.105
+                                     [02]: fe80::b799:611d:b549:4b49
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: Yes
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes
+

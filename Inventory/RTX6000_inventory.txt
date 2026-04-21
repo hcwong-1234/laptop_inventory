@@ -1,0 +1,190 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2025-12-04 14:17:04
+Computer Name  : RTX6000
+Logged-in User : rtx6000
+Serial Number  : Default string
+Manufacturer   : ASRock
+Model          : X870E Nova WiFi
+OS Name        : Microsoft Windows 11 Pro
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 7 9800X3D 8-Core Processor           
+Total RAM      : 134846185472 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  999314944000,
+    "FreeSpace":  319481425920
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "RZ717 WiFi 7 160MHz",
+    "MACAddress":  "EC:91:61:D0:74:2B"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : rtx6000
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe 5GbE Family Controller
+   Physical Address. . . . . . . . . : 9C-6B-00-95-7F-D6
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : RZ717 WiFi 7 160MHz #3
+   Physical Address. . . . . . . . . : EE-91-61-D0-44-1B
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi 5:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : RZ717 WiFi 7 160MHz #5
+   Physical Address. . . . . . . . . : EE-91-61-D0-54-0B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : RZ717 WiFi 7 160MHz
+   Physical Address. . . . . . . . . : EC-91-61-D0-74-2B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::48d9:59ce:b2f2:a56e%15(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.205(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, 19 November 2025 7:31:03 pm
+   Lease Expires . . . . . . . . . . : Friday, 5 December 2025 1:04:32 pm
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 250384737
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-4E-C5-0F-9C-6B-00-95-7F-D6
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : EC-91-61-D0-74-2C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-15-5D-0A-A6-00
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::e413:4714:eb61:9bc6%32(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.17.128.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 536876381
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-4E-C5-0F-9C-6B-00-95-7F-D6
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter #2
+   Physical Address. . . . . . . . . : 00-15-5D-EA-D3-56
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c80a:a965:d171:ffd4%52(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.21.192.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 872420701
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-4E-C5-0F-9C-6B-00-95-7F-D6
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     RTX6000
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              rtx6000
+Registered Organization:       N/A
+Product ID:                    00330-52531-07243-AAOEM
+Original Install Date:         25/2/2025, 8:11:33 am
+System Boot Time:              19/11/2025, 7:30:25 pm
+System Manufacturer:           ASRock
+System Model:                  X870E Nova WiFi
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 26 Model 68 Stepping 0 AuthenticAMD ~4700 Mhz
+BIOS Version:                  American Megatrends International, LLC. 3.18.AS02, 5/2/2025
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         128,599 MB
+Available Physical Memory:     104,656 MB
+Virtual Memory: Max Size:      206,416 MB
+Virtual Memory: Available:     39,785 MB
+Virtual Memory: In Use:        166,631 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\RTX6000
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5066128
+                               [02]: KB5054156
+                               [03]: KB5068861
+                               [04]: KB5067035
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: Realtek PCIe 5GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

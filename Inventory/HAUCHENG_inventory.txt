@@ -1,24 +1,24 @@
 ﻿========================================
   COMPANY LAPTOP INVENTORY SNAPSHOT
 ========================================
-Date/Time      : 2025-12-08 16:48:53
+Date/Time      : 2026-04-22 16:41:10
 Computer Name  : HAUCHENG
 Logged-in User : HauCheng_PC
 Serial Number  : NXJF5SG001514011949601
 Manufacturer   : Acer
 Model          : Aspire AG14-71M
 OS Name        : Microsoft Windows 11 Home
-OS Version     : 10.0.26100
+OS Version     : 10.0.26200
 OS Arch        : 64-bit
 CPU Name       : Intel(R) Core(TM) Ultra 5 125H
-Total RAM      : 16730066944 bytes
+Total RAM      : 16730062848 bytes
 Domain/Workgrp : DSING
 
 [DISKS JSON]
 {
     "DeviceID":  "C:",
     "Size":  510481395712,
-    "FreeSpace":  238621839360
+    "FreeSpace":  168138944512
 }
 
 [MAC ADDRESSES JSON]
@@ -43,7 +43,7 @@ Ethernet adapter Ethernet:
    Connection-specific DNS Suffix  . : 
    Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
    Physical Address. . . . . . . . . : 1C-69-7A-DE-72-DC
-   DHCP Enabled. . . . . . . . . . . : Yes
+   DHCP Enabled. . . . . . . . . . . : No
    Autoconfiguration Enabled . . . . : Yes
 
 Wireless LAN adapter Local Area Connection* 1:
@@ -72,15 +72,15 @@ Wireless LAN adapter Wi-Fi:
    DHCP Enabled. . . . . . . . . . . : Yes
    Autoconfiguration Enabled . . . . : Yes
    Link-local IPv6 Address . . . . . : fe80::9421:8896:3163:e8d2%5(Preferred) 
-   IPv4 Address. . . . . . . . . . . : 192.168.10.250(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.0.10(Preferred) 
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Lease Obtained. . . . . . . . . . : Monday, 8 December 2025 4:27:32 pm
-   Lease Expires . . . . . . . . . . : Tuesday, 9 December 2025 4:27:29 pm
-   Default Gateway . . . . . . . . . : 192.168.10.1
-   DHCP Server . . . . . . . . . . . : 192.168.10.1
+   Lease Obtained. . . . . . . . . . : Wednesday, 22 April 2026 9:08:47 am
+   Lease Expires . . . . . . . . . . : Wednesday, 22 April 2026 6:36:47 pm
+   Default Gateway . . . . . . . . . : 192.168.0.1
+   DHCP Server . . . . . . . . . . . : 192.168.0.1
    DHCPv6 IAID . . . . . . . . . . . : 324534789
    DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-35-F3-29-1C-69-7A-DE-72-DC
-   DNS Servers . . . . . . . . . . . : 192.168.10.1
+   DNS Servers . . . . . . . . . . . : 192.168.0.1
    NetBIOS over Tcpip. . . . . . . . : Enabled
 
 Ethernet adapter Bluetooth Network Connection:
@@ -96,14 +96,14 @@ Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
 
    Connection-specific DNS Suffix  . : 
    Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
-   Physical Address. . . . . . . . . : 00-15-5D-53-FD-CE
+   Physical Address. . . . . . . . . : 00-15-5D-2E-CE-62
    DHCP Enabled. . . . . . . . . . . : No
    Autoconfiguration Enabled . . . . : Yes
-   Link-local IPv6 Address . . . . . : fe80::bad:1d71:4a99:405a%45(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::88da:78:fb2a:d4f5%44(Preferred) 
    IPv4 Address. . . . . . . . . . . : 172.23.224.1(Preferred) 
    Subnet Mask . . . . . . . . . . . : 255.255.240.0
    Default Gateway . . . . . . . . . : 
-   DHCPv6 IAID . . . . . . . . . . . : 754980189
+   DHCPv6 IAID . . . . . . . . . . . : 738202973
    DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-35-F3-29-1C-69-7A-DE-72-DC
    NetBIOS over Tcpip. . . . . . . . : Enabled
 
@@ -112,7 +112,7 @@ Ethernet adapter vEthernet (WSL (Hyper-V firewall)):
 
 Host Name:                     HAUCHENG
 OS Name:                       Microsoft Windows 11 Home
-OS Version:                    10.0.26100 N/A Build 26100
+OS Version:                    10.0.26200 N/A Build 26200
 OS Manufacturer:               Microsoft Corporation
 OS Configuration:              Standalone Workstation
 OS Build Type:                 Multiprocessor Free
@@ -120,7 +120,7 @@ Registered Owner:              HauCheng_PC
 Registered Organization:       N/A
 Product ID:                    00342-22477-17997-AAOEM
 Original Install Date:         19/8/2025, 4:43:46 pm
-System Boot Time:              2/12/2025, 9:21:05 am
+System Boot Time:              22/4/2026, 9:08:24 am
 System Manufacturer:           Acer
 System Model:                  Aspire AG14-71M
 System Type:                   x64-based PC
@@ -134,24 +134,25 @@ System Locale:                 en-us;English (United States)
 Input Locale:                  en-us;English (United States)
 Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
 Total Physical Memory:         15,955 MB
-Available Physical Memory:     5,284 MB
-Virtual Memory: Max Size:      16,979 MB
-Virtual Memory: Available:     3,022 MB
-Virtual Memory: In Use:        13,957 MB
+Available Physical Memory:     2,702 MB
+Virtual Memory: Max Size:      25,171 MB
+Virtual Memory: Available:     5,189 MB
+Virtual Memory: In Use:        19,982 MB
 Page File Location(s):         C:\pagefile.sys
 Domain:                        DSING
 Logon Server:                  \\HAUCHENG
-Hotfix(s):                     3 Hotfix(s) Installed.
-                               [01]: KB5066131
-                               [02]: KB5068861
-                               [03]: KB5067035
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5082417
+                               [02]: KB5054156
+                               [03]: KB5083769
+                               [04]: KB5088467
 Network Card(s):               3 NIC(s) Installed.
                                [01]: Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
                                      Connection Name: Wi-Fi
                                      DHCP Enabled:    Yes
-                                     DHCP Server:     192.168.10.1
+                                     DHCP Server:     192.168.0.1
                                      IP address(es)
-                                     [01]: 192.168.10.250
+                                     [01]: 192.168.0.10
                                      [02]: fe80::9421:8896:3163:e8d2
                                [02]: Realtek PCIe GbE Family Controller
                                      Connection Name: Ethernet

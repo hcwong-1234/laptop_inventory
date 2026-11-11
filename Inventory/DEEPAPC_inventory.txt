@@ -1,14 +1,14 @@
 ﻿========================================
   COMPANY LAPTOP INVENTORY SNAPSHOT
 ========================================
-Date/Time      : 2026-04-09 07:18:41
+Date/Time      : 2026-08-07 14:33:37
 Computer Name  : DEEPAPC
 Logged-in User : Deepa
 Serial Number  : NXJF5SG005543009569601
 Manufacturer   : Acer
 Model          : Aspire AG14-71M
 OS Name        : Microsoft Windows 11 Home
-OS Version     : 10.0.26100
+OS Version     : 10.0.26200
 OS Arch        : 64-bit
 CPU Name       : Intel(R) Core(TM) Ultra 5 115U
 Total RAM      : 16730439680 bytes
@@ -18,7 +18,7 @@ Domain/Workgrp : WORKGROUP
 {
     "DeviceID":  "C:",
     "Size":  510481395712,
-    "FreeSpace":  440986255360
+    "FreeSpace":  416219987968
 }
 
 [MAC ADDRESSES JSON]
@@ -73,10 +73,10 @@ Wireless LAN adapter Wi-Fi:
    DHCP Enabled. . . . . . . . . . . : Yes
    Autoconfiguration Enabled . . . . : Yes
    Link-local IPv6 Address . . . . . : fe80::f709:83c6:49c9:c1d3%6(Preferred) 
-   IPv4 Address. . . . . . . . . . . : 10.0.0.244(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.231(Preferred) 
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Lease Obtained. . . . . . . . . . : Thursday, 9 April 2026 7:14:22 am
-   Lease Expires . . . . . . . . . . : Friday, 10 April 2026 7:17:16 am
+   Lease Obtained. . . . . . . . . . : Thursday, 6 August 2026 9:13:26 am
+   Lease Expires . . . . . . . . . . : Saturday, 8 August 2026 2:31:38 pm
    Default Gateway . . . . . . . . . : 10.0.0.3
    DHCP Server . . . . . . . . . . . : 10.0.0.3
    DHCPv6 IAID . . . . . . . . . . . : 105918097
@@ -98,7 +98,7 @@ Ethernet adapter Bluetooth Network Connection:
 
 Host Name:                     DEEPAPC
 OS Name:                       Microsoft Windows 11 Home
-OS Version:                    10.0.26100 N/A Build 26100
+OS Version:                    10.0.26200 N/A Build 26200
 OS Manufacturer:               Microsoft Corporation
 OS Configuration:              Standalone Workstation
 OS Build Type:                 Multiprocessor Free
@@ -106,7 +106,7 @@ Registered Owner:              Deepa
 Registered Organization:       N/A
 Product ID:                    00342-22626-80595-AAOEM
 Original Install Date:         5/11/2025, 9:46:23 am
-System Boot Time:              9/4/2026, 7:13:23 am
+System Boot Time:              21/7/2026, 9:14:39 am
 System Manufacturer:           Acer
 System Model:                  Aspire AG14-71M
 System Type:                   x64-based PC
@@ -120,16 +120,19 @@ System Locale:                 en-us;English (United States)
 Input Locale:                  en-us;English (United States)
 Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
 Total Physical Memory:         15,955 MB
-Available Physical Memory:     10,419 MB
-Virtual Memory: Max Size:      18,899 MB
-Virtual Memory: Available:     12,962 MB
-Virtual Memory: In Use:        5,937 MB
+Available Physical Memory:     7,776 MB
+Virtual Memory: Max Size:      16,979 MB
+Virtual Memory: Available:     6,521 MB
+Virtual Memory: In Use:        10,458 MB
 Page File Location(s):         C:\pagefile.sys
 Domain:                        WORKGROUP
 Logon Server:                  \\DEEPAPC
-Hotfix(s):                     2 Hotfix(s) Installed.
-                               [01]: KB5062660
-                               [02]: KB5064485
+Hotfix(s):                     5 Hotfix(s) Installed.
+                               [01]: KB5100998
+                               [02]: KB5054156
+                               [03]: KB5101650
+                               [04]: KB5094135
+                               [05]: KB5120102
 Network Card(s):               3 NIC(s) Installed.
                                [01]: Realtek PCIe GbE Family Controller
                                      Connection Name: Ethernet
@@ -142,7 +145,7 @@ Network Card(s):               3 NIC(s) Installed.
                                      DHCP Enabled:    Yes
                                      DHCP Server:     10.0.0.3
                                      IP address(es)
-                                     [01]: 10.0.0.244
+                                     [01]: 10.0.0.231
                                      [02]: fe80::f709:83c6:49c9:c1d3
 Virtualization-based security: Status: Running
                                Required Security Properties:
@@ -161,7 +164,7 @@ Virtualization-based security: Status: Running
                                Services Running:
                                      Hypervisor enforced Code Integrity
                                App Control for Business policy: Enforced
-                               App Control for Business user mode policy: Audit
+                               App Control for Business user mode policy: Enforced
                                Security Features Enabled:
 Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
 

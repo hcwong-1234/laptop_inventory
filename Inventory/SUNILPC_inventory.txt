@@ -1,25 +1,37 @@
 ﻿========================================
   COMPANY LAPTOP INVENTORY SNAPSHOT
 ========================================
-Date/Time      : 2026-04-06 16:04:42
+Date/Time      : 2026-11-02 15:23:50
 Computer Name  : SUNILPC
 Logged-in User : Sunil
 Serial Number  : GC8ZZ54
 Manufacturer   : Dell Inc.
 Model          : XPS 13 9345
 OS Name        : Microsoft Windows 11 Home
-OS Version     : 10.0.26200
+OS Version     : 10.0.26300
 OS Arch        : ARM 64-bit Processor
 CPU Name       : Snapdragon(R) X Elite - X1E80100 - Qualcomm(R) Oryon(TM) CPU
 Total RAM      : 16755752960 bytes
 Domain/Workgrp : DSING
 
 [DISKS JSON]
-{
-    "DeviceID":  "C:",
-    "Size":  510805405696,
-    "FreeSpace":  251287642112
-}
+[
+    {
+        "DeviceID":  "C:",
+        "Size":  510644973568,
+        "FreeSpace":  217205329920
+    },
+    {
+        "DeviceID":  "D:",
+        "Size":  1000186310656,
+        "FreeSpace":  467114672128
+    },
+    {
+        "DeviceID":  "G:",
+        "Size":  510644973568,
+        "FreeSpace":  206345060352
+    }
+]
 
 [MAC ADDRESSES JSON]
 {
@@ -36,7 +48,6 @@ Windows IP Configuration
    Node Type . . . . . . . . . . . . : Hybrid
    IP Routing Enabled. . . . . . . . : No
    WINS Proxy Enabled. . . . . . . . : No
-   DNS Suffix Search List. . . . . . : localdomain
 
 Ethernet adapter Ethernet:
 
@@ -84,12 +95,12 @@ Wireless LAN adapter Wi-Fi:
    Link-local IPv6 Address . . . . . : fe80::5a53:768:e74b:61bc%6(Preferred) 
    IPv4 Address. . . . . . . . . . . : 10.0.0.173(Preferred) 
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Lease Obtained. . . . . . . . . . : Monday, 6 April 2026 3:39:47 pm
-   Lease Expires . . . . . . . . . . : Tuesday, 7 April 2026 3:39:47 pm
+   Lease Obtained. . . . . . . . . . : Monday, 2 November 2026 3:16:22 pm
+   Lease Expires . . . . . . . . . . : Tuesday, 3 November 2026 3:17:36 pm
    Default Gateway . . . . . . . . . : 10.0.0.3
    DHCP Server . . . . . . . . . . . : 10.0.0.3
    DHCPv6 IAID . . . . . . . . . . . : 91768412
-   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-C6-CF-89-00-E0-4C-68-22-78
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-31-E1-FC-5F-78-46-5C-5F-43-61
    DNS Servers . . . . . . . . . . . : 10.0.0.3
    NetBIOS over Tcpip. . . . . . . . : Enabled
 
@@ -107,7 +118,7 @@ Ethernet adapter Bluetooth Network Connection:
 
 Host Name:                     SUNILPC
 OS Name:                       Microsoft Windows 11 Home
-OS Version:                    10.0.26200 N/A Build 26200
+OS Version:                    10.0.26300 N/A Build 26300
 OS Manufacturer:               Microsoft Corporation
 OS Configuration:              Standalone Workstation
 OS Build Type:                 Multiprocessor Free
@@ -115,33 +126,34 @@ Registered Owner:              Sunil
 Registered Organization:       N/A
 Product ID:                    00342-21294-39818-AAOEM
 Original Install Date:         24/5/2025, 11:31:10 pm
-System Boot Time:              6/4/2026, 3:39:29 pm
+System Boot Time:              2/11/2026, 3:16:05 pm
 System Manufacturer:           Dell Inc.
 System Model:                  XPS 13 9345
 System Type:                   ARM64-based PC
 Processor(s):                  1 Processor(s) Installed.
-                               [01]: ARMv8 (64-bit) Family 8 Model 1 Revision 201 Qualcomm Technologies Inc ~1190 Mhz
-BIOS Version:                  Dell Inc. 2.11.0, 21/9/2025
+                               [01]: ARMv8 (64-bit) Family 8 Model 1 Revision 201 Qualcomm Technologies Inc ~1670 Mhz
+BIOS Version:                  Dell Inc. 2.14.0, 9/7/2026
 Windows Directory:             C:\Windows
 System Directory:              C:\Windows\system32
 Boot Device:                   \Device\HarddiskVolume1
 System Locale:                 en-us;English (United States)
 Input Locale:                  en-us;English (United States)
-Time Zone:                     (UTC+08:00) Irkutsk
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
 Total Physical Memory:         15,980 MB
-Available Physical Memory:     4,807 MB
-Virtual Memory: Max Size:      23,660 MB
-Virtual Memory: Available:     8,509 MB
-Virtual Memory: In Use:        15,151 MB
+Available Physical Memory:     2,552 MB
+Virtual Memory: Max Size:      22,892 MB
+Virtual Memory: Available:     8,866 MB
+Virtual Memory: In Use:        14,026 MB
 Page File Location(s):         C:\pagefile.sys
 Domain:                        DSING
 Logon Server:                  \\SUNILPC
-Hotfix(s):                     5 Hotfix(s) Installed.
-                               [01]: KB5074828
+Hotfix(s):                     6 Hotfix(s) Installed.
+                               [01]: KB5127694
                                [02]: KB5054156
-                               [03]: KB5086672
-                               [04]: KB5083532
-                               [05]: KB5079387
+                               [03]: KB5121794
+                               [04]: KB5127936
+                               [05]: KB5127647
+                               [06]: KB5132402
 Network Card(s):               2 NIC(s) Installed.
                                [01]: Bluetooth Device (Personal Area Network)
                                      Connection Name: Bluetooth Network Connection

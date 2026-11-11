@@ -1,0 +1,179 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-09-15 10:39:57
+Computer Name  : CANDYPC
+Logged-in User : CandyPC
+Serial Number  : 5CD244F3LM
+Manufacturer   : HP
+Model          : HP Laptop 14s-fq1xxx
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 5500U with Radeon Graphics         
+Total RAM      : 16456368128 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  510863077376,
+    "FreeSpace":  434813988864
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter",
+    "MACAddress":  "2C:3B:70:67:BA:C3"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : CandyPC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : ExpressVPN TAP Adapter
+   Physical Address. . . . . . . . . : 00-FF-DC-0F-46-E1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : ExpressVPN TUN Driver
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 2E-3B-70-67-BA-C3
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : AE-3B-70-67-BA-C3
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter
+   Physical Address. . . . . . . . . : 2C-3B-70-67-BA-C3
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::2ab2:9402:27:2360%18(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.128(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, 15 September 2026 10:14:37 am
+   Lease Expires . . . . . . . . . . : Wednesday, 16 September 2026 10:14:37 am
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 304888688
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-32-3A-3A-A8-2C-3B-70-67-BA-C3
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 2C-3B-70-67-BA-C2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     CANDYPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              CandyPC
+Registered Organization:       HP
+Product ID:                    00342-22076-18795-AAOEM
+Original Install Date:         15/9/2026, 6:55:06 am
+System Boot Time:              15/9/2026, 10:14:18 am
+System Manufacturer:           HP
+System Model:                  HP Laptop 14s-fq1xxx
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 104 Stepping 1 AuthenticAMD ~2100 Mhz
+BIOS Version:                  AMI F.31, 2/8/2023
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         15,694 MB
+Available Physical Memory:     10,093 MB
+Virtual Memory: Max Size:      18,638 MB
+Virtual Memory: Available:     12,564 MB
+Virtual Memory: In Use:        6,074 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\CANDYPC
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5126052
+                               [02]: KB5054156
+                               [03]: KB5129195
+                               [04]: KB5124007
+Network Card(s):               4 NIC(s) Installed.
+                               [01]: ExpressVPN TUN Driver
+                                     Connection Name: Local Area Connection
+                                     Status:          Media disconnected
+                               [02]: ExpressVPN TAP Adapter
+                                     Connection Name: Ethernet 2
+                                     Status:          Media disconnected
+                               [03]: Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.128
+                                     [02]: fe80::2ab2:9402:27:2360
+                               [04]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

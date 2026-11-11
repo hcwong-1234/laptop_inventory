@@ -1,0 +1,155 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-07-29 15:36:46
+Computer Name  : ROMMEL-LAPTOP
+Logged-in User : Default
+Serial Number  : NXAB1SG00L123129273400
+Manufacturer   : Acer
+Model          : Swift SF314-43
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 3 5300U with Radeon Graphics         
+Total RAM      : 7896887296 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  254863732736,
+    "FreeSpace":  91356110848
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
+    "MACAddress":  "D8:F3:BC:81:4D:F9"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Rommel-Laptop
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : DA-F3-BC-81-6D-D9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : DA-F3-BC-81-7D-C9
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+   Physical Address. . . . . . . . . : D8-F3-BC-81-4D-F9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::b225:624:aa7f:b129%18(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.140(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, July 29, 2026 9:12:35 AM
+   Lease Expires . . . . . . . . . . : Thursday, July 30, 2026 3:31:37 PM
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 165213116
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-64-E2-6A-D8-F3-BC-81-4D-F9
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : D8-F3-BC-81-4D-FA
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     ROMMEL-LAPTOP
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              darell@daikai.com
+Registered Organization:       N/A
+Product ID:                    00325-82151-07056-AAOEM
+Original Install Date:         9/24/2025, 6:54:35 AM
+System Boot Time:              7/21/2026, 9:50:35 AM
+System Manufacturer:           Acer
+System Model:                  Swift SF314-43
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 104 Stepping 1 AuthenticAMD ~1789 Mhz
+BIOS Version:                  Insyde Corp. V1.04, 7/28/2021
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         7,531 MB
+Available Physical Memory:     2,553 MB
+Virtual Memory: Max Size:      8,683 MB
+Virtual Memory: Available:     3,506 MB
+Virtual Memory: In Use:        5,177 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\ROMMEL-LAPTOP
+Hotfix(s):                     6 Hotfix(s) Installed.
+                               [01]: KB5100998
+                               [02]: KB5050575
+                               [03]: KB5054156
+                               [04]: KB5065847
+                               [05]: KB5101650
+                               [06]: KB5120102
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.140
+                                     [02]: fe80::b225:624:aa7f:b129
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     Secure Memory Overwrite
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                               Services Running:
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Enforced
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

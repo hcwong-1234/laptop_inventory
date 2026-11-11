@@ -1,0 +1,145 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-08-12 10:18:36
+Computer Name  : CHONGPC
+Logged-in User : Daikai
+Serial Number  : PF2DXJ2H
+Manufacturer   : LENOVO
+Model          : 82DL
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26100
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 5 4600U with Radeon Graphics         
+Total RAM      : 7909199872 bytes
+Domain/Workgrp : DSING
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  1022113083392,
+    "FreeSpace":  913123233792
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Intel(R) Wi-Fi 6 AX200 160MHz",
+    "MACAddress":  "6C:6A:77:42:3F:83"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : ChongPC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 6C-6A-77-42-3F-84
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 6E-6A-77-42-3F-83
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN
+   Physical Address. . . . . . . . . : 5E-7F-7A-53-6F-5B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX200 160MHz
+   Physical Address. . . . . . . . . : 6C-6A-77-42-3F-83
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::7b41:759e:e0a6:bc1e%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.207(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, 12 August 2026 10:16:25 am
+   Lease Expires . . . . . . . . . . : Thursday, 13 August 2026 10:16:24 am
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 90991223
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2C-1C-F9-19-6C-6A-77-42-3F-83
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     CHONGPC
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Daikai
+Registered Organization:       
+Product ID:                    00325-96694-23003-AAOEM
+Original Install Date:         29/5/2025, 9:21:11 am
+System Boot Time:              12/8/2026, 10:15:44 am
+System Manufacturer:           LENOVO
+System Model:                  82DL
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 96 Stepping 1 AuthenticAMD ~2100 Mhz
+BIOS Version:                  LENOVO F0CN39WW, 7/12/2022
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         7,543 MB
+Available Physical Memory:     2,078 MB
+Virtual Memory: Max Size:      12,919 MB
+Virtual Memory: Available:     6,634 MB
+Virtual Memory: In Use:        6,285 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        DSING
+Logon Server:                  \\CHONGPC
+Hotfix(s):                     5 Hotfix(s) Installed.
+                               [01]: KB5101001
+                               [02]: KB5120710
+                               [03]: KB5121003
+                               [04]: KB5101711
+                               [05]: KB5123304
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: Intel(R) Wi-Fi 6 AX200 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.207
+                                     [02]: fe80::7b41:759e:e0a6:bc1e
+                               [02]: VPN Client Adapter - VPN
+                                     Connection Name: VPN - VPN Client
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: Yes
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes
+

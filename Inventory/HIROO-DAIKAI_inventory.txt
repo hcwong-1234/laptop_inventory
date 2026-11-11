@@ -1,0 +1,180 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-08-20 10:37:35
+Computer Name  : HIROO-DAIKAI
+Logged-in User : daikai
+Serial Number  : Default string
+Manufacturer   : Gigabyte Technology Co., Ltd.
+Model          : B550I AORUS PRO AX
+OS Name        : Microsoft Windows 11 Pro
+OS Version     : 10.0.26200
+OS Arch        : 64-bit
+CPU Name       : AMD Ryzen 7 PRO 4750G with Radeon Graphics
+Total RAM      : 34198421504 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+[
+    {
+        "DeviceID":  "C:",
+        "Size":  999116763136,
+        "FreeSpace":  551358353408
+    },
+    {
+        "DeviceID":  "D:",
+        "Size":  1000204136448,
+        "FreeSpace":  872328527872
+    },
+    {
+        "DeviceID":  "G:",
+        "Size":  999116763136,
+        "FreeSpace":  523790434304
+    }
+]
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Intel(R) Wi-Fi 6 AX200 160MHz",
+    "MACAddress":  "A8:7E:EA:EB:9A:6F"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Hiroo-Daikai
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VPN Client Adapter - VPN
+   Physical Address. . . . . . . . . : 5E-B7-65-A8-E5-C1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek Gaming 2.5GbE Family Controller
+   Physical Address. . . . . . . . . : 18-C0-4D-34-55-AC
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : A8-7E-EA-EB-9A-70
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : AA-7E-EA-EB-9A-6F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX200 160MHz
+   Physical Address. . . . . . . . . : A8-7E-EA-EB-9A-6F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::5878:e660:6b4f:ee7a%17(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.233(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, 12 August 2026 11:14:38 am
+   Lease Expires . . . . . . . . . . : Friday, 21 August 2026 6:33:58 am
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 145260266
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-45-23-BC-18-C0-4D-34-55-AC
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : A8-7E-EA-EB-9A-73
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     HIROO-DAIKAI
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              daikai
+Registered Organization:       
+Product ID:                    00330-80000-00000-AA459
+Original Install Date:         8/11/2024, 3:13:48 pm
+System Boot Time:              12/8/2026, 11:14:21 am
+System Manufacturer:           Gigabyte Technology Co., Ltd.
+System Model:                  B550I AORUS PRO AX
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 96 Stepping 1 AuthenticAMD ~3600 Mhz
+BIOS Version:                  American Megatrends International, LLC. F22a, 14/4/2026
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 en-us;English (United States)
+Input Locale:                  ja;Japanese
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         32,614 MB
+Available Physical Memory:     24,064 MB
+Virtual Memory: Max Size:      34,662 MB
+Virtual Memory: Available:     23,113 MB
+Virtual Memory: In Use:        11,549 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\HIROO-DAIKAI
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5120708
+                               [02]: KB5054156
+                               [03]: KB5121003
+                               [04]: KB5123304
+Network Card(s):               4 NIC(s) Installed.
+                               [01]: VPN Client Adapter - VPN
+                                     Connection Name: VPN - VPN Client
+                                     Status:          Media disconnected
+                               [02]: Realtek Gaming 2.5GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [03]: Intel(R) Wi-Fi 6 AX200 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.0.0.3
+                                     IP address(es)
+                                     [01]: 10.0.0.233
+                                     [02]: fe80::5878:e660:6b4f:ee7a
+                               [04]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: No
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes
+

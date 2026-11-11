@@ -1,0 +1,159 @@
+﻿========================================
+  COMPANY LAPTOP INVENTORY SNAPSHOT
+========================================
+Date/Time      : 2026-08-24 09:28:11
+Computer Name  : KANEDA
+Logged-in User : Kaneda
+Serial Number  : T1N0KD00915901C
+Manufacturer   : ASUSTeK COMPUTER INC.
+Model          : ASUS Zenbook A14 UX3407RA_UX3407RA
+OS Name        : Microsoft Windows 11 Home
+OS Version     : 10.0.26200
+OS Arch        : ARM 64-bit Processor
+CPU Name       : Snapdragon(R) X Elite - X1E78100 - Qualcomm(R) Oryon(TM) CPU
+Total RAM      : 33896992768 bytes
+Domain/Workgrp : WORKGROUP
+
+[DISKS JSON]
+{
+    "DeviceID":  "C:",
+    "Size":  1021550333952,
+    "FreeSpace":  868198989824
+}
+
+[MAC ADDRESSES JSON]
+{
+    "Description":  "Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter",
+    "MACAddress":  "3C:0A:F3:3F:27:E9"
+}
+
+[IPCONFIG RAW]
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : kaneda
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter Wi-Fi 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter #2
+   Physical Address. . . . . . . . . : 5E-0A-F3-3F-27-E9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter #3
+   Physical Address. . . . . . . . . : 7E-0A-F3-3F-27-E9
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter #4
+   Physical Address. . . . . . . . . : 6E-0A-F3-3F-27-E9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter
+   Physical Address. . . . . . . . . : 3C-0A-F3-3F-27-E9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::bf1e:2cae:fa26:c371%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.115(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 2026?8?24? 9:26:23
+   Lease Expires . . . . . . . . . . : 2026?8?25? 9:26:22
+   Default Gateway . . . . . . . . . : 10.0.0.3
+   DHCP Server . . . . . . . . . . . : 10.0.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 104598259
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-0F-FC-A4-60-7D-09-56-42-1B
+   DNS Servers . . . . . . . . . . . : 10.0.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 3C-0A-F3-3F-27-EA
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+[SYSTEMINFO RAW]
+
+Host Name:                     KANEDA
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              kaneda@daikai.com
+Registered Organization:       N/A
+Product ID:                    00342-21355-19746-AAOEM
+Original Install Date:         2025/01/08, 17:37:36
+System Boot Time:              2026/08/17, 9:42:25
+System Manufacturer:           ASUSTeK COMPUTER INC.
+System Model:                  ASUS Zenbook A14 UX3407RA_UX3407RA
+System Type:                   ARM64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: ARMv8 (64-bit) Family 8 Model 1 Revision 201 Qualcomm Technologies Inc ~3417 Mhz
+BIOS Version:                  Insyde UX3407RA.312, 2025/11/07
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume12
+System Locale:                 en-us;English (United States)
+Input Locale:                  ja;Japanese
+Time Zone:                     (UTC+08:00) Kuala Lumpur, Singapore
+Total Physical Memory:         32,327 MB
+Available Physical Memory:     18,422 MB
+Virtual Memory: Max Size:      34,375 MB
+Virtual Memory: Available:     21,660 MB
+Virtual Memory: In Use:        12,715 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\KANEDA
+Hotfix(s):                     5 Hotfix(s) Installed.
+                               [01]: KB5120708
+                               [02]: KB5048779
+                               [03]: KB5054156
+                               [04]: KB5121003
+                               [05]: KB5123304
+Network Card(s):               1 NIC(s) Installed.
+                               [01]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                                     Secure Launch
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                                     Secure Launch
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+                                     Return Address Signing (Kernel-mode)
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
